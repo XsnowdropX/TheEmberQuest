@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cherry">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Collectibles\Boost\Cherry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAIAAiAAAgAAAApAADAAFQ0AAQAJAAgAAADAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Boss.BossState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Enemy\Boss.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>RAQAUCAAJiYBgAAENAgAAQAAA4gQAQIJBYAAOkAACMg=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Boss.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="health" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Health">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAEAgAAAAAhCAACBAACEACBAAAAEAAAIAAAAgiggAEA=</HashCode>
+      <FileName>Assets\Scripts\Collectibles\Health\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeleeEnemy">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQEAAAIASAAiAAAAAAgAAAAAAAkAAAAAQAAAgCAAEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\MeleeEnemy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="playerHealth" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RangeEnemy">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQEAAAIASAAggAAAAAgAAAAAAAEBAAAAQBAAgiAAEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\RangeEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
