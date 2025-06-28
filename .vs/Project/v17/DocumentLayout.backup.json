@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Unity\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|d:\\projects\\unity\\project\\assets\\scripts\\collectibles\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\fallingrock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\fallingrock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\core\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\shop\\jumpbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\jumpbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\shop\\healthbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\healthbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\boost\\cherry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\boost\\cherry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\health\\healthcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\health\\healthcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\core\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\lock\u0026key\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\lock\u0026key\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\lock\u0026key\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\lock\u0026key\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\core\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\enemy\\rangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\rangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\enemy\\enemyprojectileholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyprojectileholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\player\\playermovement0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\sawblade_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\sawblade_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\sawblade_vertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\sawblade_vertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Project\\assets\\scripts\\collectibles\\victorytrophy\\victorytrophy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\victorytrophy\\victorytrophy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Unity\\Project\\classdiagram5.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classdiagram5.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Health\\Health.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Health\\Health.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA0wHMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:08:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cherry.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Boost\\Cherry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Boost\\Cherry.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Boost\\Cherry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Boost\\Cherry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:58:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwH4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:12:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FireballProjectile.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:30:10.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthBuy.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Shop\\HealthBuy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\HealthBuy.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Shop\\HealthBuy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\HealthBuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:27:55.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JumpBuy.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Shop\\JumpBuy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\JumpBuy.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Shop\\JumpBuy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\JumpBuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:28:44.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:24:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SoundManager.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\SoundManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:13:03.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Coin\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Coin\\CoinManager.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Coin\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Coin\\CoinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:45:47.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:45:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Rooms\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Room.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Rooms\\Room.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:02:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrowTrap.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:06:14.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:15:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClassDiagram5.cd",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\ClassDiagram5.cd",
+              "RelativeDocumentMoniker": "ClassDiagram5.cd",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\ClassDiagram5.cd*",
+              "RelativeToolTip": "ClassDiagram5.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-28T05:20:29.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HealthCollectible.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\HealthCollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Health\\HealthCollectible.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\HealthCollectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Health\\HealthCollectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:46:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FallingRock.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\FallingRock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\FallingRock.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\FallingRock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\FallingRock.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:00:44.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KeyManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\KeyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\KeyManager.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\KeyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\KeyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:06:34.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Lock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Lock.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Lock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Lock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:05:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Key.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Key.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Key.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Lock\u0026Key\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:01:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\CameraController.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Core\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:07:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:30:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:28:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnemyProjectileHolder.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\EnemyProjectileHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyProjectileHolder.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\EnemyProjectileHolder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyProjectileHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:53:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerRespawn.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:22:46.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnemyProjectile.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:04:57.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:05:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RangeEnemy.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\RangeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\RangeEnemy.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Enemy\\RangeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\RangeEnemy.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:57:04.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sawblade_vertical.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\Sawblade_vertical.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Sawblade_vertical.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\Sawblade_vertical.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Sawblade_vertical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:27:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerMovement0.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerMovement0.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement0.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Player\\PlayerMovement0.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement0.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAmwLsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:31:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\Health\\HealthBar.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\Health\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\Health\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:07:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sawblade_sideways.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\Sawblade_sideways.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Sawblade_sideways.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\Sawblade_sideways.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Sawblade_sideways.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:22:20.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FireTrap.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\FireTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\FireTrap.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Traps\\FireTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\FireTrap.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:12:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UImanager.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\UI\\UImanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UImanager.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\UI\\UImanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UImanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:29:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VictoryTrophy.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\VictoryTrophy\\VictoryTrophy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\VictoryTrophy\\VictoryTrophy.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Project\\Assets\\Scripts\\Collectibles\\VictoryTrophy\\VictoryTrophy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\VictoryTrophy\\VictoryTrophy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:07:44.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

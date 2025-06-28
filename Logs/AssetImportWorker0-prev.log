@@ -1,0 +1,799 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.0f1 (9ea152932a88) revision 10395986'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16291 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-06-28T15:06:44Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/Unity/Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50250
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/Projects/Unity/Project
+D:/Projects/Unity/Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [36532]  Target information:
+
+Player connection [36532]  * "[IP] 192.168.101.14 [Port] 0 [Flags] 2 [Guid] 3300205500 [EditorId] 3300205500 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NJ5SESJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [36532] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [36532] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 23.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.0f1 (9ea152932a88)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/Unity/Project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:          NVIDIA
+    VRAM:            5955 MB
+    App VRAM Budget: 5187 MB
+    Driver:          32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004874 seconds.
+- Loaded All Assemblies, in  0.725 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.501 seconds
+Domain Reload Profiling: 1222ms
+	BeginReloadAssembly (303ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (83ms)
+	LoadAllAssembliesAndSetupDomain (252ms)
+		LoadAssemblies (299ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (248ms)
+			TypeCache.Refresh (246ms)
+				TypeCache.ScanAssembly (229ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (501ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (435ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (71ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (190ms)
+			ProcessInitializeOnLoadMethodAttributes (99ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.407 seconds
+Refreshing native plugins compatible for Editor in 3.82 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.234 seconds
+Domain Reload Profiling: 2637ms
+	BeginReloadAssembly (253ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (1027ms)
+		LoadAssemblies (787ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (396ms)
+			TypeCache.Refresh (304ms)
+				TypeCache.ScanAssembly (283ms)
+			BuildScriptInfoCaches (74ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1235ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1020ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (181ms)
+			ProcessInitializeOnLoadAttributes (625ms)
+			ProcessInitializeOnLoadMethodAttributes (198ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 4.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 231 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6698 unused Assets / (7.1 MB). Loaded Objects now: 7381.
+Memory consumption went from 178.8 MB to 171.6 MB.
+Total: 16.568700 ms (FindLiveObjects: 1.598100 ms CreateObjectMapping: 1.580200 ms MarkObjects: 7.483900 ms  DeleteObjects: 5.905000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1198443.855825 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '568ae695d98e0024afb630f3dc4711a2') in 0.0144585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.013 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.023 seconds
+Domain Reload Profiling: 2035ms
+	BeginReloadAssembly (272ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (635ms)
+		LoadAssemblies (470ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (299ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (265ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1024ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (753ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (178ms)
+			ProcessInitializeOnLoadAttributes (475ms)
+			ProcessInitializeOnLoadMethodAttributes (84ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (7.9 MB). Loaded Objects now: 7386.
+Memory consumption went from 151.5 MB to 143.6 MB.
+Total: 17.632200 ms (FindLiveObjects: 1.426100 ms CreateObjectMapping: 1.802500 ms MarkObjects: 7.250400 ms  DeleteObjects: 7.151500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 55.444517 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0022296 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0007748 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005316 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005589 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004796 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004357 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005092 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004718 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004524 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005217 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004456 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0007251 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000546 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005852 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006284 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004751 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006202 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005197 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004878 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+  ERROR: Build asset version error: assets/scripts/traps/arrowtrap.cs in SourceAssetDB has modification time of '2025-06-28T15:07:36.9022606Z' while content on disk has modification time of '2025-06-28T15:07:46.4416181Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.979 seconds
+Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.980 seconds
+Domain Reload Profiling: 1957ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (579ms)
+		LoadAssemblies (437ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (242ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (981ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (712ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (161ms)
+			ProcessInitializeOnLoadAttributes (453ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.44 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (7.0 MB). Loaded Objects now: 7388.
+Memory consumption went from 151.5 MB to 144.5 MB.
+Total: 11.969100 ms (FindLiveObjects: 0.891200 ms CreateObjectMapping: 1.587300 ms MarkObjects: 5.071000 ms  DeleteObjects: 4.418600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.450250 seconds.
+  path: Assets/Scripts/Traps/ArrowTrap.cs
+  artifactKey: Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Traps/ArrowTrap.cs using Guid(c40fb31aecc4359439d040160f851316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd514b30fba8ea1672df5df4dd2818a31') in 0.0021269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.893867 seconds.
+  path: Assets/Prefabs/EnvEnemies/ArrowShooter.prefab
+  artifactKey: Guid(d1b6996e061b83a4296df1a01a75774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnvEnemies/ArrowShooter.prefab using Guid(d1b6996e061b83a4296df1a01a75774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '720e32418f8ab9f6b50c9cbc3eec16c4') in 0.6287498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.873 seconds
+Refreshing native plugins compatible for Editor in 1.32 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.958 seconds
+Domain Reload Profiling: 1831ms
+	BeginReloadAssembly (265ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (35ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (513ms)
+		LoadAssemblies (365ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (267ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (234ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (958ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (709ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (136ms)
+			ProcessInitializeOnLoadAttributes (460ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (6.8 MB). Loaded Objects now: 7423.
+Memory consumption went from 159.0 MB to 152.2 MB.
+Total: 13.248700 ms (FindLiveObjects: 0.879300 ms CreateObjectMapping: 1.454600 ms MarkObjects: 6.193800 ms  DeleteObjects: 4.719600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 70.286676 seconds.
+  path: Assets/Prefabs/EnvEnemies/ArrowShooter.prefab
+  artifactKey: Guid(d1b6996e061b83a4296df1a01a75774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnvEnemies/ArrowShooter.prefab using Guid(d1b6996e061b83a4296df1a01a75774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '546fcb877c1bbdb9d6edc6f1b64ec966') in 0.5738257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.924 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.962 seconds
+Domain Reload Profiling: 1889ms
+	BeginReloadAssembly (273ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (35ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (550ms)
+		LoadAssemblies (406ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (267ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (234ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (965ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (701ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (459ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (7.0 MB). Loaded Objects now: 7447.
+Memory consumption went from 159.7 MB to 152.7 MB.
+Total: 13.000700 ms (FindLiveObjects: 0.877200 ms CreateObjectMapping: 1.442700 ms MarkObjects: 5.847900 ms  DeleteObjects: 4.831700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.888 seconds
+Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.962 seconds
+Domain Reload Profiling: 1852ms
+	BeginReloadAssembly (246ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (543ms)
+		LoadAssemblies (388ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (270ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (242ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (963ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (711ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (466ms)
+			ProcessInitializeOnLoadMethodAttributes (87ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.33 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (7.1 MB). Loaded Objects now: 7449.
+Memory consumption went from 161.6 MB to 154.5 MB.
+Total: 12.201300 ms (FindLiveObjects: 0.873100 ms CreateObjectMapping: 1.548800 ms MarkObjects: 5.565900 ms  DeleteObjects: 4.212500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 696.977089 seconds.
+  path: Assets/Prefabs/Collectibles/FullHealthPotion.prefab
+  artifactKey: Guid(3bfb21bf83a2f2f409cd6535dd6cb792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Collectibles/FullHealthPotion.prefab using Guid(3bfb21bf83a2f2f409cd6535dd6cb792) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2c5ae4b3e1f0f9af8a9f42fe6b2c8f9') in 0.5585617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.918140 seconds.
+  path: Assets/Prefabs/Collectibles/KEY.prefab
+  artifactKey: Guid(f721e84532428cd42b9ae7c0cd8753e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Collectibles/KEY.prefab using Guid(f721e84532428cd42b9ae7c0cd8753e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '953764c1da6532fda41fc28cdb3f3bd9') in 0.026768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.933 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.977 seconds
+Domain Reload Profiling: 1910ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (40ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (69ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (555ms)
+		LoadAssemblies (384ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (292ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (260ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (978ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (705ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (149ms)
+			ProcessInitializeOnLoadAttributes (456ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Refreshing native plugins compatible for Editor in 1.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (7.6 MB). Loaded Objects now: 7473.
+Memory consumption went from 161.3 MB to 153.8 MB.
+Total: 13.103800 ms (FindLiveObjects: 0.953700 ms CreateObjectMapping: 1.559100 ms MarkObjects: 5.343800 ms  DeleteObjects: 5.245800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 520.635460 seconds.
+  path: Assets/Prefabs/Collectibles/LOCK.prefab
+  artifactKey: Guid(601d53fe2b9396e49b2b0645eb9cbebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Collectibles/LOCK.prefab using Guid(601d53fe2b9396e49b2b0645eb9cbebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cfbed3e01a78879d5a87d0e932aa410') in 0.5601013 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.895 seconds
+Refreshing native plugins compatible for Editor in 1.32 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.956 seconds
+Domain Reload Profiling: 1852ms
+	BeginReloadAssembly (285ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (41ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (383ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (258ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (229ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (956ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (689ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (445ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (6.8 MB). Loaded Objects now: 7497.
+Memory consumption went from 162.9 MB to 156.1 MB.
+Total: 12.283700 ms (FindLiveObjects: 0.883000 ms CreateObjectMapping: 1.395300 ms MarkObjects: 5.877800 ms  DeleteObjects: 4.126200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
